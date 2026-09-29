@@ -59,7 +59,9 @@ for (int i = 0; i < sticksLeft;)
 
 }
 Console.Clear();
+Console.WriteLine();
 Console.BackgroundColor = ConsoleColor.DarkGreen;
 Console.Write($"The winner is {currentPlayer}!    ");
 Console.WriteLine(":-)");
 Console.BackgroundColor = ConsoleColor.Black;
+Console.WriteLine(" ");
