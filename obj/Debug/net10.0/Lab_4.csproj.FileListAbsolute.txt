@@ -12,3 +12,4 @@
 /Users/porter.rasmussen/mycoderepositories/gameOfSticksLab_4/obj/Debug/net10.0/Lab_4.pdb
 /Users/porter.rasmussen/mycoderepositories/gameOfSticksLab_4/obj/Debug/net10.0/Lab_4.genruntimeconfig.cache
 /Users/porter.rasmussen/mycoderepositories/gameOfSticksLab_4/obj/Debug/net10.0/ref/Lab_4.dll
+/Users/porter.rasmussen/mycoderepositories/gameOfSticksLab_4/obj/Debug/net10.0/Lab_4.sourcelink.json
